@@ -8,10 +8,10 @@ assignees: ''
 
 ## 👤 Candidate Information
 
-**Full Name:** 
-**Email:** 
-**LinkedIn:** _(optional)_
-**Location:** _(optional)_
+**Full Name:** Umut Fikri Santur
+**Email:** umutsantur51@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/umut-santur-718742220/
+**Location:** Ankara/Altındağ
 **Submission Date:** 
 
 ---
@@ -19,8 +19,8 @@ assignees: ''
 ## 📎 Submission Files
 
 **Option A: Attached Files**
-- Report PDF: [Attach here]
-- Video link: 
+- Report PDF: https://github.com/FikriSantur/acme-security/blob/main/submissions/Umut%20Fikri%20Santur/UmutFikriSantur_Report.pdf
+- Video link: https://www.youtube.com/watch?v=68_6-2dMK8w
 
 **Option B: External Links**
 - Report: [Google Drive / Dropbox link]
@@ -30,13 +30,13 @@ assignees: ''
 
 ## ⏱️ Time Tracking
 
-**Total time spent:** ___ hours
+**Total time spent:** 16 hours
 
 **Breakdown:**
-- Log analysis: ___ hours
-- Architecture design: ___ hours
-- Report writing: ___ hours
-- Video creation: ___ hours
+- Log analysis: 8 hours
+- Architecture design: 3 hours
+- Report writing: 3 hours
+- Video creation: 2 hours
 
 ---
 
@@ -79,28 +79,29 @@ assignees: ''
 
 Please confirm:
 
-- [ ] Report is max 5 pages
-- [ ] Video is 10-15 minutes
-- [ ] All log files were analyzed
-- [ ] Timeline is timezone-corrected
-- [ ] Framework mappings included (ISO 27001, NIST, OWASP)
-- [ ] Architecture diagram included
-- [ ] Video link is tested and working
-- [ ] No plagiarism / proper attribution
-- [ ] Original work, not AI-generated
+- [x] Report is max 5 pages
+- [x] Video is 10-15 minutes
+- [x] All log files were analyzed
+- [x] Timeline is timezone-corrected
+- [x] Framework mappings included (ISO 27001, NIST, OWASP)
+- [x] Architecture diagram included
+- [x] Video link is tested and working
+- [x] No plagiarism / proper attribution
+- [x] Original work, not AI-generated
 
 ---
 
 ## 💬 Optional Feedback
 
 **What did you think of this lab?**
+this is realy good for my developing indivudual cyber security skills
 
 
 **Any suggestions for improvement?**
 
 
 **Would you recommend this to others?**
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - [ ] Maybe
 
@@ -109,8 +110,8 @@ Please confirm:
 ## 📧 Contact Preference
 
 **Preferred contact method:**
-- [ ] Email
-- [ ] LinkedIn
+- [x] Email
+- [x] LinkedIn
 - [ ] GitHub
 
 **Best time to reach you:**
@@ -122,8 +123,8 @@ Please confirm:
 
 I declare that this submission is my original work and I have followed all guidelines.
 
-**Name:** 
-**Date:** 
+**Name:** Umut Firki Santur  
+**Date:** 10.11.2025
 
 ---
 
